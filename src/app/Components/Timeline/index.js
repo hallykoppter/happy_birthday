@@ -14,7 +14,7 @@ const Timeline = () => {
       <div className="flex">
         <VerticalTimeline lineColor="#2196f3">
           <VerticalTimelineElement
-            visible={true}
+            visible={false}
             className="vertical-timeline-element--work font-baloo"
             contentStyle={{ background: "#f65f", color: "#000" }}
             contentArrowStyle={{ borderRight: "7px solid  rgb(33, 150, 243)" }}
@@ -38,7 +38,7 @@ const Timeline = () => {
             </p>
           </VerticalTimelineElement>
           <VerticalTimelineElement
-            visible={true}
+            visible={false}
             className="vertical-timeline-element--work font-baloo text-white"
             contentStyle={{ background: "#f65f", color: "#000" }}
             contentArrowStyle={{ borderRight: "7px solid  rgb(33, 150, 243)" }}
@@ -71,7 +71,7 @@ const Timeline = () => {
             </p>
           </VerticalTimelineElement>
           <VerticalTimelineElement
-            visible={true}
+            visible={false}
             className="vertical-timeline-element--work font-baloo"
             contentStyle={{ background: "#f65f", color: "#000" }}
             contentArrowStyle={{ borderRight: "7px solid  rgb(33, 150, 243)" }}
@@ -103,7 +103,7 @@ const Timeline = () => {
             </p>
           </VerticalTimelineElement>
           <VerticalTimelineElement
-            visible={true}
+            visible={false}
             className="vertical-timeline-element--work font-baloo"
             contentStyle={{ background: "#f65f", color: "#000" }}
             contentArrowStyle={{ borderRight: "7px solid  rgb(33, 150, 243)" }}
@@ -137,7 +137,7 @@ const Timeline = () => {
             </p>
           </VerticalTimelineElement>
           <VerticalTimelineElement
-            visible={true}
+            visible={false}
             className="vertical-timeline-element--work font-baloo"
             contentStyle={{ background: "#f65f", color: "#000" }}
             contentArrowStyle={{ borderRight: "7px solid  rgb(33, 150, 243)" }}
@@ -170,7 +170,7 @@ const Timeline = () => {
             </p>
           </VerticalTimelineElement>
           <VerticalTimelineElement
-            visible={true}
+            visible={false}
             className="vertical-timeline-element--work font-baloo"
             contentStyle={{ background: "#f65f", color: "#000" }}
             contentArrowStyle={{ borderRight: "7px solid  rgb(33, 150, 243)" }}
