@@ -164,8 +164,9 @@ const Timeline = () => {
             <p className="text-white">
               Tahun ini ayang lulus dari SMA, wuiihhh. menginjak masa-masa
               dewasa yakan. hehehe. Harapan kita dulu semoga masih bisa tetap
-              bersama ke depannya. Alhamdulillah di masih bisa bersama, Sayang.
-              semoga ke depannya juga akan terus bersama. Aamiin. 😘😘😘😘😘
+              bersama ke depannya. Alhamdulillah di tahun ini masih bisa
+              bersama, Sayang. semoga ke depannya juga akan terus bersama.
+              Aamiin. 😘😘😘😘😘
             </p>
           </VerticalTimelineElement>
           <VerticalTimelineElement
